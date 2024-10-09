@@ -1,6 +1,8 @@
 # Heisenbug-2024-autumn 
 [Эффективное использование терминала](https://heisenbug.ru/talks/7961554dec8545978ce9a6b877eff94d/)
 
+### Альтернативный взгляд на все это. Второй доклад [VladimirTechTalks #24](https://vk.com/video-178974757_456239050)
+
 # Терминалы
 - Мой текущий терминал [Wezterm](https://wezfurlong.org/wezterm/index.html)\
   -- мой шрифт\
