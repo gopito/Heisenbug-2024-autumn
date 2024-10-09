@@ -16,7 +16,7 @@
 
 
 # Shell
-- Сиситема как база данных [Nushell](https://www.nushell.sh/)
+- Система как база данных [Nushell](https://www.nushell.sh/)
 - zsh cheatsheet [zsh](https://www.bash2zsh.com/zsh_refcard/refcard.pdf)
 
 # Плагины
@@ -39,7 +39,7 @@
 - [fd](https://github.com/sharkdp/fd)
 - [rg](https://github.com/BurntSushi/ripgrep)
 - [Статья с примерами использования rg 1](https://mariusschulz.com/blog/fast-searching-with-ripgrep)
-- [Статья с примерами использования rg2 ](https://codapi.org/try/ripgrep/#partial-matches)
+- [Статья с примерами использования rg 2](https://codapi.org/try/ripgrep/#partial-matches)
 - помогалка с примерами использования команд [tldr](https://github.com/tldr-pages/tldr)
 
 # Bash
