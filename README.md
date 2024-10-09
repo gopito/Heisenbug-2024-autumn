@@ -12,7 +12,7 @@
 - Конкурент Warp [Wave](https://www.waveterm.dev/)
 - Самый популяный терминал в MacOS [iTerm](https://iterm2.com/)
 - Хороший терминал для Windows [ConEmu](https://conemu.github.io/)
-- [Чарт терминалов youtube](https://www.youtube.com/watch?v=WxzYtdIcHnQ)
+- [Чарт терминалов Youtube](https://www.youtube.com/watch?v=WxzYtdIcHnQ)
 
 
 # Shell
@@ -44,7 +44,7 @@
 - [rg](https://github.com/BurntSushi/ripgrep)
 - [Статья с примерами использования rg 1](https://mariusschulz.com/blog/fast-searching-with-ripgrep)
 - [Статья с примерами использования rg 2](https://codapi.org/try/ripgrep/#partial-matches)
-- помогалка с примерами использования команд [tldr](https://github.com/tldr-pages/tldr)
+- Помогалка с примерами использования команд [tldr](https://github.com/tldr-pages/tldr)
 
 # Bash
 - [Искусство командной строки github](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md)
