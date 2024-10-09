@@ -21,7 +21,11 @@
 
 # Плагины
 - Промпт для всех операционок и с кучей тем [OhMyPosh](https://ohmyposh.dev/)
-- Тема powerlevel10k для OhMyPosh (powerlevel10k)[https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/powerlevel10k_rainbow.omp.json]
+- Тема powerlevel10k для OhMyPosh [powerlevel10k](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/powerlevel10k_rainbow.omp.json)\
+В ~/.zshrc прописать:\
+ ```eval "$(oh-my-posh init zsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/powerlevel10k_rainbow.omp.json')"```
+
+
 - Самый популярный менеджер плагинов для ZSH [OhMyZsh](https://ohmyz.sh/)
 - Autosuggestions - чтобы можно было нажимать кнопку вправо [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md)
 - Подсветка команд - [fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting)
