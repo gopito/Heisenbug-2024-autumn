@@ -1,9 +1,5 @@
 # Heisenbug-2024-autumn 
 [Эффективное использование терминала](https://heisenbug.ru/talks/7961554dec8545978ce9a6b877eff94d/)
-# Git
-- Консольный UI враппер для git [Lazygit](https://github.com/jesseduffield/lazygit)
-- Список проблем и решений для git [Oh shit git](https://ohshitgit.com/)
-- OhMyZSH git плагин с алиасами. Включен по умолчанию при установке OhMyZSH [](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/git/git.plugin.zsh)
 
 # Терминалы
 - Мой текущий терминал [Wezterm](https://wezfurlong.org/wezterm/index.html)\
@@ -53,3 +49,8 @@
 - Про xargs [TomNomNom Youtube](https://www.youtube.com/watch?v=HK1wAV9x4-A)
 - ТикТоки про баш [You Suck at Programming](https://ysap.sh/)
 - [Use Bash Strict Mode (Unless You Love Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
+
+# Git
+- Консольный UI враппер для git [Lazygit](https://github.com/jesseduffield/lazygit)
+- Список проблем и решений для git [Oh shit git](https://ohshitgit.com/)
+- OhMyZSH git плагин с алиасами. Включен по умолчанию при установке OhMyZSH [OhMyZSH git плагин с алиасами](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/git/git.plugin.zsh)
